@@ -1,6 +1,6 @@
-id,name,city,capacity,available
-134,Tourist Sunny Apartment,Anchorage,4,no
-188,Snow Palace,New Delhi,5,yes
-655,City Break Inn,Porto-Novo,3,yes
-548,Dream land,Butwal,4,no
-254,Everst Living PG,KTM,6,no
+id,name,city,capacity,available,price
+134,Tourist Sunny Apartment,Anchorage,4,no,Rs.5700
+188,Snow Palace,New Delhi,5,no,Rs.4500
+655,City Break Inn,Porto-Novo,3,yes,Rs.8600
+548,Dream land,Butwal,4,yes,Rs.1099
+254,Everst Living PG,KTM,6,yes,Rs.1299
